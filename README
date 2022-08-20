@@ -3,6 +3,11 @@ slock - simple screen locker
 simple screen locker utility for X.
 
 
+Patches applied
+---------------
+slock-background-image-20220318-1c5a538.diff
+
+
 Requirements
 ------------
 In order to build slock you need the Xlib header files.
